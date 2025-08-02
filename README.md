@@ -15,9 +15,12 @@ CodeSync is a real-time collaborative code editor that allows multiple users to 
 ---
 
 - ## 🛠️ Tech Stack
-- **Frontend:** React.js, CSS, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Real-time Communication:** Socket.io
+- **Express.js:** Handling API requests.
+- **React:** Building the front-end interface.
+- **Node.js:** Running the server.
+- **Socket.IO:** Enabling real-time communication.
+- **uuid:** Generating unique room IDs.
+- **CodeMirror:** Providing the code editor.
 
 ---
 
